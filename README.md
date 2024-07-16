@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I'm Drishti 👋
 
-<!--
-**Drishti0430/Drishti0430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, technology, and always eager to learn new things.
+![Profile Views](https://komarev.com/ghpvc/?username=Drishti0430)
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+## 🌱 What I'm Learning
+
+- Python , Generative AI , Prompt engineering
+- Aritificial Intelligence and Machine learning
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Drishti0430&theme=tokyonight)](https://git.io/streak-stats)
+
+## 📫 How to Reach Me
+
+- [Email](mailto:drishtigupta1230@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/drishti-gupta-297624254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+---
+
+![Drishti0430 GitHub stats](https://github-readme-stats.vercel.app/api?username=Drishti0430&show_icons=true&theme=radical)
