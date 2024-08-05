@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and alway
 
 - Python , Generative AI , Prompt engineering
 - Aritificial Intelligence and Machine learning
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Drishti0430&theme=tokyonight)](https://git.io/streak-stats)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drishti0430&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>  
 ## 📫 How to Reach Me
 
 - [Email](mailto:drishtigupta1230@gmail.com)
