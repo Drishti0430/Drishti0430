@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and alway
 ## 📫 How to Reach Me
 
 - [drishtigupta1230@gmail.com](mailto:drishtigupta1230@gmail.com)
-- [https://www.linkedin.com/in/drishti-gupta-297624254/]
+- https://www.linkedin.com/in/drishti-gupta-297624254/
 
 ---
 
